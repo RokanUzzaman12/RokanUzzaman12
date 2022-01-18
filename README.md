@@ -1,5 +1,5 @@
 
-![I am a full stack web developer](https://media-exp1.licdn.com/dms/image/C4E22AQGLIDZLNvR2-Q/feedshare-shrink_2048_1536/0/1635789963364?e=1639008000&v=beta&t=jhlXrGTYVFXG-dHIa_JcvEMLVl5YF4aGedfDY6t-KIU)
+![I am a full stack web developer](https://media-exp1.licdn.com/dms/image/C4E16AQG4-CjqnrlxeA/profile-displaybackgroundimage-shrink_350_1400/0/1635789562048?e=1648080000&v=beta&t=JeRy-3RhFAL6-WDJbyUVfBFSE1ZrptsJ5B6O8Qgmxhs)
 ### Hi there 👋, I'm Md. Rokan Uzzaman
 #### I am a full stack web developer
 
