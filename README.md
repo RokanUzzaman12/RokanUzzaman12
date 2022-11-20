@@ -7,7 +7,7 @@ I have years of experience in Web Development and Designing and I can serve you 
 
 The best way to describe me is through work, so I would be serving you till your satisfaction which at the end of the day provides me relaxation.
 
-Skills: Laravel / PHP / REACT / JS / HTML / CSS
+Skills: JavaScript / Node / Vue / React / HTML / CSS
 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Web design and development 
